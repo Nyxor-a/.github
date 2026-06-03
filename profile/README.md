@@ -11,7 +11,7 @@ We're **Nyxora** — a team of four Computer Science undergraduates from KLE Tec
 | Name | Role | GitHub | LinkedIn |
 |------|------|--------|----------|
 | **Ankit Raj** | AI/ML | [@ankitraj8042](https://github.com/ankitraj8042) | [LinkedIn](https://www.linkedin.com/in/ankit-raj-96237b369/) |
-| **Kanishka Naik** | Frontend | — |  [@Kanishka0605](https://github.com/Kanishka0605) |[LinkedIn](https://www.linkedin.com/in/kanishka-n-4839972b1/) |
+| **Kanishka Naik** | Frontend | [@Kanishka0605](https://github.com/Kanishka0605) |[LinkedIn](https://www.linkedin.com/in/kanishka-n-4839972b1/) |
 | **Reesha Koli** | Data & Full Stack | [@Reeshackoli](https://github.com/Reeshackoli) | [LinkedIn](https://www.linkedin.com/in/reesha-koli-3633a2350/) |
 | **Sushil Chandaragi** | Backend & Systems | [@SushilChandaragi](https://github.com/SushilChandaragi) | [LinkedIn](https://www.linkedin.com/in/sushilchandaragi/) |
 
